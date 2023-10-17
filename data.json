@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "1",
+        "name": "Royal Tea - Trà Sữa Trân Châu - Thăng Long",
+        "price": "18,000 - 35,000",
+        "description": "57 ngõ 2 Đại Lộ Thăng Long, P. Mễ Trì, Nam Từ Liêm, Hà Nội",
+        "MaTP":"",
+        "image":"https://images.foody.vn/res/g108/1073301/prof/s640x400/foody-upload-api-foody-mobile-foody-upload-api-foo-210412165656.jpg"
+    },
+    {
+        "id" : "2",
+        "name": "Royal Tea - Trà Sữa Trdfsdfân Châu - Thăng Long",
+        "price": "18,000 - 35fsdf,000",
+        "description": "57 ngõ 2sdfds Đại Lộ Thăng Long, P. Mễ Trì, Nam Từ Liêm, Hà Nội",
+        "MaTP":""
+    }   
+]
